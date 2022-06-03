@@ -1,9 +1,6 @@
 
 **Name:** Clothing Size Predictor
 
-**Author:** Sharome Burton
-
-**Date:** 07/18/2021
 
 **Description:** Machine learning model used to predict women's clothing sizes based on historical data on age, weight and height
 
